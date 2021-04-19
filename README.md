@@ -1,12 +1,14 @@
 # Serenity Now
 
-<img src="" alt="">
+<img src="https://media.giphy.com/media/NiT29gUcZ3IS4/giphy.gif" alt="">
 
 ## :emoji: About
 
+A first shot at React as well as an appreciation project of George 'Can't Stand Ya'.
+
 ## :emoji: Instructions
 
-_Opt. 1:_ Access the project live through [this link]().
+_Opt. 1:_ Access the project live through [this link](https://serenity-now.vercel.app/).
 
 1.
 2.
