@@ -2,11 +2,11 @@ import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import './../../index.css';
 // Styled components:
-import { Wrapper, QuoteBox, Quote, Author, SeasonEpisode } from './AppStyled';
+import { Wrapper, QuoteBox, Quote, Author, SeasonEpisode } from './indexStyled';
 // Components:
-import Footer from './../Footer/Footer.js';
-import Header from './../Header/Header.js';
-import Button from './../Button/Button.js';
+import Footer from '../Footer/';
+import Header from '../Header/';
+import Button from '../Button/';
 
 const App = () => {
 	const [quote, setQuote] = useState('');

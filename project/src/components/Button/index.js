@@ -1,7 +1,7 @@
 // import React from 'react';
 import PropTypes from 'prop-types';
 // Styled components:
-import { ButtonStyled } from './ButtonStyled.js';
+import { ButtonStyled } from './indexStyled.js';
 
 const Button = ({ text, handleClick }) => {
 	return (
