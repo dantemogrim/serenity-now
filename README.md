@@ -42,7 +42,6 @@ _Prerequisites - Here you will need both a Text Editor and [NPM](https://formula
 
 ## :pancakes: Stack
 
-- [Laravel Mix](https://laravel-mix.com/)
 - [React](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 
