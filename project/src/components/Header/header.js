@@ -1,14 +1,8 @@
 // Styled components:
-import { HeaderStyled } from './headerStyled.js';
+import { HeaderStyled } from './HeaderStyled.js';
 
 const Header = ({ text }) => {
-	return (
-		<HeaderStyled>
-			<div>
-				<h1>{text}</h1>
-			</div>
-		</HeaderStyled>
-	);
+	return <HeaderStyled>{text}</HeaderStyled>;
 };
 
 export default Header;

@@ -1,5 +1,5 @@
 // Styled components:
-import { FooterStyled, FooterLinkStyled } from './footerStyled.js';
+import { FooterStyled, FooterLinkStyled } from './FooterStyled.js';
 
 const Footer = ({ text }) => {
 	return (
