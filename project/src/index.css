@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+body {
+	background-image: url('https://media.giphy.com/media/7Dk4apSbWKpZ6/giphy.gif');
+	width: 100vw;
+	height: 100vh;
+	align-self: center;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	font-family: 'Gaegu', cursive;
+}
+
+div {
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+}
