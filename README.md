@@ -6,7 +6,7 @@
 
 Our first React assignment as well as a tribute to the one and only George ('Can't Stand Ya') Costanza.
 
-<details><summary> <b>Assignment description + requirements:</b></summary>
+<details><summary><b>Assignment description + requirements:</b></summary>
 The assignment is to create a small application using React. There are no limits for what you can create so use your imagination and the knowledge you've got from our previous lessons. You are allowed to work in pairs.
 
 **Below you'll find a list of requirements:**
@@ -28,14 +28,15 @@ Good luck!
 
 _Opt. 1:_ Access the project live through [this link](https://serenity-now.vercel.app/).
 
-_Opt. 2:_
-_Prerequisites: Here you will need both a Text Editor and [NPM](https://formulae.brew.sh/formula/node) installed._
+<details><summary><b>_Opt. 2:_
+_Prerequisites - Here you will need both a Text Editor and [NPM](https://formulae.brew.sh/formula/node) installed._</b></summary>
 
 1. Download this repo to your computer by pressing the big, green 'Code' button.
 2. Open up the folder in a Text Editor of your choice.
 3. In your CLI `cd` all the way into the `project` folder.
 4. In your CLI type `npm run install` followed by `npm run start`.
 5. Your CLI should now have kick started a localhost on your browser. You can access the project from there. Have fun!
+</details>
 
 ## :pancakes: Stack
 
