@@ -28,8 +28,9 @@ Good luck!
 
 _Opt. 1:_ Access the project live through [this link](https://serenity-now.vercel.app/).
 
-<details><summary><b>_Opt. 2:_
-_Prerequisites - Here you will need both a Text Editor and [NPM](https://formulae.brew.sh/formula/node) installed._</b></summary>
+<details><summary>_Opt. 2:_ Download the project locally. 
+</summary>
+_Prerequisites - Here you will need both a Text Editor and [NPM](https://formulae.brew.sh/formula/node) installed._
 
 1. Download this repo to your computer by pressing the big, green 'Code' button.
 2. Open up the folder in a Text Editor of your choice.
