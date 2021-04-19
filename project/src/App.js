@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
+import './index.css';
 // Styled components:
 import { Wrapper, QuoteBox, Quote, Author, SeasonEpisode } from './AppStyled';
-// Central, single CSS file:
-import './index.css';
 // Components:
 import Footer from './components/Footer/Footer.js';
 import Header from './components/Header/Header.js';
