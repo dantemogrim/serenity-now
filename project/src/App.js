@@ -4,7 +4,7 @@ import './index.css';
 // Styled components:
 import { Wrapper, QuoteBox, Quote, Author, SeasonEpisode } from './AppStyled';
 // Components:
-import Footer from './components/Footer/index.js';
+import Footer from './components/Footer/Footer.js';
 import Header from './components/Header/Header.js';
 import Button from './components/Button/Button.js';
 
