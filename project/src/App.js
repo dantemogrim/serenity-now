@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 // Styled components:
 import { Wrapper, QuoteBox, Quote, Author, SeasonEpisode } from './AppStyled';
 // Central, single CSS file:
-import './../../index.css';
+import './index.css';
 // Components:
-import Footer from './../../components/Footer/Footer';
-import Header from './../../components/Header/Header';
-import Button from './../../components/Button/Button';
+import Footer from './components/Footer/Footer';
+import Header from './components/Header/Header';
+import Button from './components/Button/Button';
 
 const App = () => {
 	const [quote, setQuote] = useState('');
