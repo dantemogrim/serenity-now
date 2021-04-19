@@ -6,7 +6,7 @@
 
 Our first React assignment as well as a tribute to the one and only George ('Can't Stand Ya') Costanza.
 
-<details><summary><b>Assignment description + requirements:</b></summary>
+<details><summary><i>Assignment description + requirements:</i></summary>
 The assignment is to create a small application using React. There are no limits for what you can create so use your imagination and the knowledge you've got from our previous lessons. You are allowed to work in pairs.
 
 **Below you'll find a list of requirements:**
