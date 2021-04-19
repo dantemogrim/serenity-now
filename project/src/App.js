@@ -5,9 +5,9 @@ import { Wrapper, QuoteBox, Quote, Author, SeasonEpisode } from './AppStyled';
 // Central, single CSS file:
 import './index.css';
 // Components:
-import Footer from './components/Footer/Footer';
-import Header from './components/Header/Header';
-import Button from './components/Button/Button';
+import Footer from './components/Footer/Footer.js';
+import Header from './components/Header/Header.js';
+import Button from './components/Button/Button.js';
 
 const App = () => {
 	const [quote, setQuote] = useState('');
