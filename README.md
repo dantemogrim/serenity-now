@@ -43,6 +43,7 @@ _Prerequisites - Here you will need both a Text Editor and [NPM](https://formula
 ## :pancakes: Stack
 
 - [React](https://reactjs.org/)
+- [Seinfeld Quotes API](https://seinfeld-quotes.herokuapp.com/)
 - [Styled Components](https://styled-components.com/)
 
 ## :art: Creator
