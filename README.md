@@ -42,9 +42,9 @@ _Prerequisites - Here you will need both a Text Editor and [NPM](https://formula
 
 ## :pancakes: Stack
 
-- [React](https://reactjs.org/)
-- [Seinfeld Quotes API](https://seinfeld-quotes.herokuapp.com/)
-- [Styled Components](https://styled-components.com/)
+- [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+- [![Seinfeld Quotes API](https://img.shields.io/badge/Seinfeld_Quotes-API-blueviolet.svg)](https://seinfeld-quotes.herokuapp.com/)
+- [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
 ## :art: Creator
 
@@ -52,4 +52,4 @@ _Prerequisites - Here you will need both a Text Editor and [NPM](https://formula
 
 ## :tickets: License
 
-[MIT](https://opensource.org/licenses/MIT)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
