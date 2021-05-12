@@ -1,6 +1,6 @@
 # Serenity Now
 
-<img src="https://media.giphy.com/media/NiT29gUcZ3IS4/giphy.gif" alt="George Costanza sitting by the ocean. A subitle reading 'contemplative jazz music'.">
+<img src="https://media.giphy.com/media/NiT29gUcZ3IS4/giphy.gif" alt="George Costanza sitting by the ocean. A subtitle reading 'contemplative jazz music'.">
 
 ## :tv: About
 
@@ -31,7 +31,7 @@ _Opt. 1:_ Access the project live through [this link](https://serenity-now.verce
 <details><summary><i>Opt. 2:</i> Download the project locally. 
 </summary>
 
-_Prerequisites - Here you will need both a Text Editor and [NPM](https://formulae.brew.sh/formula/node) installed._
+_Prerequisites - Here you will need both a code editor and [NPM](https://formulae.brew.sh/formula/node) installed._
 
 1. Download this repo to your computer by pressing the big, green `Code` button.
 2. Open up the folder in a Text Editor of your choice.
