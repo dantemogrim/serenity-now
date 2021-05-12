@@ -34,7 +34,7 @@ _Opt. 1:_ Access the project live through [this link](https://serenity-now.verce
 _Prerequisites - Here you will need both a code editor and [NPM](https://formulae.brew.sh/formula/node) installed._
 
 1. Download this repo to your computer by pressing the big, green `Code` button.
-2. Open up the folder in a Text Editor of your choice.
+2. Open up the folder in a code editor of your choice.
 3. In your CLI `cd` all the way into the `project` folder.
 4. In your CLI type `npm run install` followed by `npm run start`.
 5. Your CLI should now have kick started a localhost on your browser. You can access the project from there. Have fun!
